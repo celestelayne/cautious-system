@@ -1,5 +1,8 @@
 let dataServer;
 
+let pubKey = config.pubKey;
+let subKey = config.subKey;
+
 // interface variables
 let sendText;
 let sendButton;
